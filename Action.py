@@ -1,14 +1,3 @@
-# ==============================CS-199==================================
-# FILE:			Action.py
-#
-# AUTHOR: 		Justin Chung
-#
-# DESCRIPTION:	This file contains the Action class. This class stores
-#				action (from the Action Enum in AI.py) and the coordindates
-#				of the action.
-#
-# NOTES: 		- DO NOT MAKE CHANGES TO THIS FILE.
-# ==============================CS-199==================================
 
 class Action():
 

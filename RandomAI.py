@@ -1,14 +1,3 @@
-# ==============================CS-199==================================
-# FILE:			RandomAI.py
-#
-# AUTHOR: 		Justin Chung
-#
-# DESCRIPTION:	This file contains the RandomAI class. In this class,
-#				the RandomAI agent will return a random move at every turn
-#				of the game.
-#
-# NOTES: 		- DO NOT MAKE CHANGES TO THIS FILE.
-# ==============================CS-199==================================
 
 import random
 from AI import AI

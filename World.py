@@ -1,15 +1,3 @@
-# ==============================CS-199==================================
-# FILE:			World.py
-#
-# AUTHOR: 		Justin Chung
-#
-# DESCRIPTION:	This file contains the World class. This file sets up the
-#				environment in which your agent exists and is responsible
-#				for representing, maintaining, and changing the state of
-#				the game.
-#
-# NOTES: 		- DO NOT MAKE CHANGES TO THIS FILE.
-# ==============================CS-199==================================
 
 import random
 from ManualAI import ManualAI

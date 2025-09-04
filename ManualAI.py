@@ -1,19 +1,3 @@
-# ==============================CS-199==================================
-# FILE:			ManualAI.py
-#
-# AUTHOR: 		Justin Chung
-#
-# DESCRIPTION:	This file contains the ManualAI class. This class allows
-#				the user to play Minesweeper manually, instead of using
-#				an agent. This mode should be used to familiarize your-
-#				self with the game and its mechanics.
-#
-# NOTES: 		- List of actions/commands can be found in Action.py
-#
-#				- This agent is run using the -m flag
-#
-#				- DO NOT MAKE CHANGES TO THIS FILE.
-# ==============================CS-199==================================
 
 from AI import AI
 from Action import Action

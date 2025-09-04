@@ -22,7 +22,7 @@ This was a group project developed as part of **CS-171 at UC Irvine**, with the 
 
 ---
 
-## 🏗Project Structure
+## Project Structure
 - **`Action.py`** — Defines the `Action` object and encapsulates moves (uncover, flag, unflag, leave).  
 - **`AI.py`** — Abstract base class for all agents; defines the interface.  
 - **`ManualAI.py`** — Lets the user play Minesweeper interactively.  
